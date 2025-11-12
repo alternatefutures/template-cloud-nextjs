@@ -1,6 +1,6 @@
 # Next.js + Alternate Futures Starter Kit
 
-![Alternate Futures](./public/AFLogo.svg)
+![Alternate Futures](./public/AFLogo.svg?v=2)
 
 ## 🚀 Project Structure
 
