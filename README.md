@@ -1,6 +1,6 @@
 # Next.js + Alternate Futures Starter Kit
 
-![Alternate Futures](/alternatefutures/cloud-templates/raw/main/assets/hero-logo.svg)
+![Alternate Futures](./public/AFLogo.svg)
 
 ## 🚀 Project Structure
 
